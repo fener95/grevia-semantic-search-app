@@ -1,0 +1,46 @@
+# Environment and Sensitive Files
+.env
+*.json
+*.geojson
+*.ttl
+
+# Ignore Specific Sensitive Files
+providers_location.json
+config/neo4j.conf
+
+# Logs and Debugging
+logs/
+*.log
+
+# Compiled Python Files
+*.pyc
+__pycache__/
+
+# Backup Files
+backups/
+*.backup
+*.dump
+
+# Notebooks (Checkpoints)
+notebooks/.ipynb_checkpoints/
+
+# IDE/Editor Configurations
+.vscode/
+*.swp
+
+# Documentation Artifacts
+docs/*.png
+docs/*.jpg
+docs/*.jpeg
+
+# System/OS Generated Files
+Thumbs.db
+# Streamlit Cache (Optional)
+.streamlit/
+
+# Interactive Map (Optional)
+interactive_map.html
+
+# Virtual Environment
+venv/
+.envrc

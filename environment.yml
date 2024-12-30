@@ -1,0 +1,25 @@
+name: grevia-app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - neo4j
+      - rdflib
+      - rdflib-neo4j
+      - langchain
+      - langchain-openai
+      - tqdm
+      - python-dotenv
+      - streamlit
+      - pandas
+      - matplotlib
+      - numpy
+      - scikit-learn
+      - geopy
+      - geopandas
+      - folium
+      - streamlit-folium
+      - shapely
