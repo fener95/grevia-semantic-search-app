@@ -17,6 +17,7 @@ You can explore the location of the solution providers collected for the project
 
 ### `import_data`
 
+(I will share them personally upon request, anyway the logic of the repo should work with your own data if you want to practice)
 Contains the RDF/Turtle files that represent the knowledge graphs (KGs) for the project:
 
 - `providersKG_with_microcategories.ttl` – Final KG of providers as of 09/12/2024.
