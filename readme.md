@@ -1,6 +1,6 @@
 # Grevia Project
 
-This is the main folder of the Grevia Project, a web application designed to support farmers by leveraging Neo4j for knowledge graph management, advanced analytics, and semantic search capabilities. The project integrates solution providers and research project data to suggest sustainable solutions based on user queries.
+This is the main folder of the Grevia Project,developed during the EIT FOOD-RIS-INSPIRE-SUMMER-SCHOOL-2024.It is a prototype web application designed to support farmers by leveraging Neo4j for knowledge graph management, advanced analytics, and semantic search capabilities. The project integrates solution providers and research project data to suggest sustainable solutions based on user queries.
 
 ## Grevia Model Typology
 
